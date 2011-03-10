@@ -3,7 +3,7 @@ dir = *
 CS_FILES  = $(wildcard $(dir)/*.cs)
 EXE_FILES = $(patsubst %.cs, %.exe, $(CS_FILES))
 
-.PHONY: clean
+.PHONY: clean c
 
 all: exe_build
 
