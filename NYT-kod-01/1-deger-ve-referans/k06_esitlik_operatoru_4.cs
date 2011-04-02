@@ -20,7 +20,7 @@ namespace Uzay1
 
             Console.WriteLine("str1 == str2 : {0}", str1 == str2);
             Console.WriteLine(str1[2]);
-            str1[2] = 'E'; // hatali : karakter dizileri degistirilemezler
+            //str1[2] = 'E'; // hatali : karakter dizileri degistirilemezler
 
 
             System.Console.Read();
