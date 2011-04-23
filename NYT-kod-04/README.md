@@ -12,7 +12,7 @@
 - Sadece bir dizindeki kodları derlemek için :
   ör:
 
-        dir=1-deger-ve-referans make
+        make dir=1-deger-ve-referans
 
 - Tüm derlediğiniz .exe uzantılı dosyaları silmek için :
 
