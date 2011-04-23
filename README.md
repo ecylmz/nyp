@@ -1,23 +1,19 @@
-### Makefile kullanımı
+Nesne Yönelimli Programlama dersinde gösterilen örnekler
 
-- Tüm dizindeki kodları derlemek için :
+Depoyu indirmek için :
 
-        make
+          $ git clone git@github.com:ecylmz/nyp.git
 
-- Derlenen kodu çalıştırmak için :
-  ör:
+- [NYT-kod-01](https://github.com/ecylmz/nyp/tree/master/NYT-kod-01) -> 1.hafta kodları
 
-        ./1-deger-ve-referans/k01_deger_referans.exe
+- [NYT-kod-02](https://github.com/ecylmz/nyp/tree/master/NYT-kod-02) -> 2.hafta kodları
 
-- Sadece bir dizindeki kodları derlemek için :
-  ör:
+- [NYT-kod-03](https://github.com/ecylmz/nyp/tree/master/NYT-kod-03) -> 3.hafta kodları
 
-        make dir=1-deger-ve-referans
+- [NYT-kod-04](https://github.com/ecylmz/nyp/tree/master/NYT-kod-04) -> 4.hafta kodları
 
-- Tüm derlediğiniz .exe uzantılı dosyaları silmek için :
+- [NYT-Programlar](https://github.com/ecylmz/nyp/tree/master/NYT-Programlar) -> derste işlenen çeşitli programlar
 
-        make clean
+- [anlatim-pdf](https://github.com/ecylmz/nyp/tree/master/anlatim-pdf) -> Derste işlenen pdf'ler
+--
 
-  veya
-
-        make c
