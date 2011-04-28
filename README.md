@@ -7,7 +7,7 @@ System.Console.WriteLine("hello world");
 
 Depoyu indirmek için :
 
-          $ git clone git@github.com:ecylmz/nyp.git
+          $ git clone git://github.com/ecylmz/nyp.git
 
 - [NYT-kod-01](https://github.com/ecylmz/nyp/tree/master/NYT-kod-01) -> 1.hafta kodları
 
