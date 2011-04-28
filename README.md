@@ -12,7 +12,11 @@ Depoyu indirmek için :
 
 - [NYT-kod-04](https://github.com/ecylmz/nyp/tree/master/NYT-kod-04) -> 4.hafta kodları
 
-- [NYT-Programlar](https://github.com/ecylmz/nyp/tree/master/NYT-Programlar) -> derste işlenen çeşitli programlar
+- [NYT-kod-05](https://github.com/ecylmz/nyp/tree/master/NYT-kod-05) -> 5.hafta kodları
+
+- [odevler](https://github.com/ecylmz/nyp/tree/master/odevler) -> Derste verilen ödevler
+
+- [sinavlar](https://github.com/ecylmz/nyp/tree/master/sinavlar) -> Dersin sınav soruları ve cevapları
 
 - [anlatim-pdf](https://github.com/ecylmz/nyp/tree/master/anlatim-pdf) -> Derste işlenen pdf'ler
 --
