@@ -1,4 +1,9 @@
-Nesne Yönelimli Programlama dersinde gösterilen örnekler
+### Nesne Yönelimli Programlama dersinde gösterilen örnekler
+
+``` csharp
+using System;
+System.Console.WriteLine("hello world");
+```
 
 Depoyu indirmek için :
 
@@ -13,6 +18,8 @@ Depoyu indirmek için :
 - [NYT-kod-04](https://github.com/ecylmz/nyp/tree/master/NYT-kod-04) -> 4.hafta kodları
 
 - [NYT-kod-05](https://github.com/ecylmz/nyp/tree/master/NYT-kod-05) -> 5.hafta kodları
+
+- [NYT-kod-06](https://github.com/ecylmz/nyp/tree/master/NYT-kod-06) -> 6.hafta kodları
 
 - [odevler](https://github.com/ecylmz/nyp/tree/master/odevler) -> Derste verilen ödevler
 
