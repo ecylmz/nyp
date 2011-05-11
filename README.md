@@ -21,6 +21,10 @@ Depoyu indirmek için :
 
 - [NYT-kod-06](https://github.com/ecylmz/nyp/tree/master/NYT-kod-06) -> 6.hafta kodları
 
+- [NYT-kod-07](https://github.com/ecylmz/nyp/tree/master/NYT-kod-07) -> 7.hafta kodları
+
+- [NYT-kod-08](https://github.com/ecylmz/nyp/tree/master/NYT-kod-08) -> 8.hafta kodları
+
 - [odevler](https://github.com/ecylmz/nyp/tree/master/odevler) -> Derste verilen ödevler
 
 - [sinavlar](https://github.com/ecylmz/nyp/tree/master/sinavlar) -> Dersin sınav soruları ve cevapları
